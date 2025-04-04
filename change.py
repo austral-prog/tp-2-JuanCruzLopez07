@@ -7,4 +7,4 @@ def change():
     print("Pesos:")
     print(int(money-expense))
     print("Centavos:")
-    print(expense-int(expense)*100)
+    print(int((round(expense)-expense)*100))
