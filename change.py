@@ -2,6 +2,8 @@ def change():
     expense = 23.75
     money = 100
     float(expense)
+    print("Ingresar gasto:")
+    print("")
     print("Dinero recibido")
     print(int(money))
     print("")
