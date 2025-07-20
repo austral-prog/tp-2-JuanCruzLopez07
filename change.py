@@ -1,9 +1,9 @@
 def change():
     expense = 23.75
     money = 100
-    float(expense))
+    float(expense)
     print("Dinero recibido")
-    print(int(money)
+    print(int(money))
     print("")
     print("Vuelto")
     print("")
